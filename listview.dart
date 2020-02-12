@@ -23,10 +23,13 @@ class MyApp extends StatelessWidget {
             color: Colors.black
           ),
           child: ListView(
-            children: <ListTile>[
+            children: <Widget>[
               _tile("Audi", "E-Tron"),
+              Divider(color: Colors.white),
               _tile("Aston Martin", "Superleggera"),
+              Divider(color: Colors.white),
               _tile("Buggati", "La Voiture Noire"),
+              Divider(color: Colors.white),
               _tile("Mercedes-Benz", "Vision Avtr")
             ],
           )
