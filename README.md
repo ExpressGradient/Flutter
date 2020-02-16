@@ -1,8 +1,12 @@
 # Flutter
 Basics of Flutter
-- container.dart -> Flutter Container
-- gridview.dart -> Flutter GridView
-- listview.dart -> Flutter ListView
-- stack.dart -> Flutter Stack
-- snackbar_drawer.dart -> Flutter SnackBar and Drawer
-- widget_stateful.dart -> A Stateful Widget which manages its own state
+- [Flutter Container](container.dart)
+- [Flutter GridView](gridview.dart)
+- [Flutter ListView](listview.dart)
+- [Flutter Stack](stack.dart) 
+- [Flutter SnackBar and Drawer](snackbar_drawer.dart)
+- [A Stateful Widget which manages it's own State](widget_stateful.dart)
+
+# Sources
+- [Flutter Docs](https://flutter.dev/docs)
+- [Flutter Youtube Channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
