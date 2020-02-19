@@ -7,6 +7,7 @@ Basics of Flutter
 - [Flutter SnackBar and Drawer](snackbar_drawer.dart)
 - [A Stateful Widget which manages it's own State](widget_stateful.dart)
 - [Handle Changes to a TextField using onChanged()](searchfield.dart)
+- [Handle Changes to a TextField using TextEditingController()](searchfield_controller.dart)
 
 # Sources
 - [Flutter Docs](https://flutter.dev/docs)
