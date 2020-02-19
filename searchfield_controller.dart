@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final String appTitle = "Login Form";
+    final String appTitle = "Search Bar";
     return MaterialApp(
       title: appTitle,
       home: Scaffold(
