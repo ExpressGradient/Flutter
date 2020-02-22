@@ -10,6 +10,7 @@ Basics of Flutter
 - [Handle Changes to a TextField using TextEditingController()](searchfield_controller.dart)
 - [A simple Login Form which has validation and gets cleaned after submitting using TextEditingController()](loginform.dart)
 - [A simple ListWheelScrollView widget for favorite TV Shows. Use flutter version of dev channel only](list_wheel_scroll_view.dart)
+- [A simple App with args passed between login route and home route after login validation](pass_args.dart)
 
 # Sources
 - [Flutter Docs](https://flutter.dev/docs)
