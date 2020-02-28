@@ -14,6 +14,7 @@ Basics of Flutter
 - [A simple App with args passed between login route and home route after login validation](pass_args.dart)
 - [Return data from the second route to the first route asynchronously](return_data.dart)
 - [Fetch a post from jsonplaceholder.typicode.com and use it in the app](fetch_post.dart)
+- [Simple Counter App, state managed by Provider](state_mgmt_provider.dart)
 
 # Sources
 - [Flutter Docs](https://flutter.dev/docs)
